@@ -38,7 +38,7 @@ export function Playground() {
             source={require("../../assets/logo-icon.png")}
             style={styles.logo}
           />
-          <Text style={styles.logoText}>ProjectBasic</Text>
+          <Text style={styles.logoText}>ProjectLost</Text>
         </Animated.View>
       </View>
     </View>
