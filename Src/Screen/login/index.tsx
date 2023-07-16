@@ -52,7 +52,6 @@ export function Login() {
 
         <View>
           <View style={styles.inputUserBox}>
-            r
             <TextInput
               style={styles.userinput}
               placeholder={"Username"}
