@@ -24,7 +24,7 @@ export function Login() {
   const [user, setUser] = useState();
 
   function verificacao() {
-    if (userName == "User1" && password == "0000") {
+    if (userName == "User" && password == "0000") {
       navigation.navigate(Home);
       setUserName("");
       setPassword("");
